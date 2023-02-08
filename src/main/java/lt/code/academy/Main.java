@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 public class Main {
     private static final String USER_FILE_NAME = "user.json";
+
     public static void main(String[] args) {
 
         User user = new User("Vardas", "Pavarde", "Asmens kodas");

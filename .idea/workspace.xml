@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25fd180a-ca83-406f-9602-83c973687494" name="Changes" comment="FirstPush">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="25fd180a-ca83-406f-9602-83c973687494" name="Changes" comment="ScannerWurks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/WriteUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/code/academy/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2LSlT4NS9ZpbxWGnQF20SvxHaeI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -96,7 +96,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1675872474189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="ScannerWurks">
+      <created>1675879370707</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1675879370707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FirstPush" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstPush" />
+    <MESSAGE value="ScannerWurks" />
+    <option name="LAST_COMMIT_MESSAGE" value="ScannerWurks" />
   </component>
 </project>
