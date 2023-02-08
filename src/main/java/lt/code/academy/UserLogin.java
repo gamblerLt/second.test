@@ -1,10 +1,18 @@
 package lt.code.academy;
 
+import java.util.Scanner;
+
 public class UserLogin {
 
     public static void main(String[] args) {
 
         UserLogin userLogin = new UserLogin();
+        Scanner scanner = new Scanner(System.in);
+
+        /*String line;
+        do {
+
+        }*/
     }
 
     private void menu() {
