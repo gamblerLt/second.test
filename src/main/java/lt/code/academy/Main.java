@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
+    //bandomoji versija
     private static final String USER_FILE_NAME = "user.json";
 
     public static void main(String[] args) {
