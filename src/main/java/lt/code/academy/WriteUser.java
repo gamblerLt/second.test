@@ -2,10 +2,7 @@ package lt.code.academy;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-import java.io.EOFException;
-import java.io.FileInputStream;
-import java.io.ObjectInput;
-import java.io.ObjectInputStream;
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -28,5 +25,14 @@ public class WriteUser {
         return users;
     }
 
+    void writeUser(Map<String, User> users) {
+        try (ObjectOutput objectOutput = new ObjectOutputStream(new FileOutputStream(USER_FILE_NAME))) {
+            for (User user: users.values()) {
+
+            }
+        }catch (IOException e) {
+            System.out.println(e.getMessage());
+        }
+    }
 
 }
